@@ -7,6 +7,3 @@ Harman Target for desk monitors/speakers
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
-
